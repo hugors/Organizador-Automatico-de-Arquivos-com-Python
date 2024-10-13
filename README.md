@@ -63,3 +63,20 @@ pip install colorama
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests com melhorias, novas funcionalidades ou correções de bugs.
+
+## Infos de commits
+
+- :package: novas funcionalidades
+- :up: atualizações
+- :ant: correções de bug
+- :checkered_flag: release
+
+
+## Nos acompanhe nas redes
+
+- Instagram - [@python_brasil](https://www.instagram.com/python_brasil/)
+- LinkedIn - [Comunidade Python Brasil](https://www.linkedin.com/company/comunidade-python-brasil)
+- GitHub - [python-brasil](https://github.com/python-brasil)
+- YouTube - [@Python_Brasil](https://www.youtube.com/@Python_Brasil)
+- Pinterest - [Python Brasil](https://br.pinterest.com/pythonbrasil/)
+- TikTok - [@python_brasil](https://www.tiktok.com/@python_brasil)
